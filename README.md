@@ -28,4 +28,4 @@ Génération de labyrinthe
 
 Pour utiliser le script python générant des instances de labyrinthe, il suffit de lancer la commande suivante :
 
->python3 [generateur.py] [lignes] [colonnes]
+>`python3 [generateur.py] [lignes] [colonnes]`
